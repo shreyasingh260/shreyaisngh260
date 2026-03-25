@@ -27,7 +27,8 @@ Digital farm management system
 ## 📊 DSA & Learning
 - Solving Data Structures & Algorithms problems regularly  
 - Practicing on platforms like LeetCode and CodeChef  
-- Continuously improving problem-solving skills  
+- Continuously improving problem-solving skills
+- https://github.com/shreyasingh260/DSA-Java
 
 ## 📫 Contact Me
 - 📧 Email: singhshreya29095@gmail.com  
