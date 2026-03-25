@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 - Languages: Java, Python, C  
-- Web: HTML, CSS, JavaScript  
+- Web: HTML, CSS, JavaScript ,Springboot 
 - Tools: Git, GitHub, VS Code
   
 ## 📌 Projects
