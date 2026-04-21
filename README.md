@@ -1,5 +1,5 @@
 # Hi, I'm Shreya Singh 👋
-<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
+<h3 align="center">Aspiring Software Developer 🚀</h3>
 💼 Open to Internship Opportunities | Available for Collaboration
 🎓 B.Tech Computer Science Engineering (2028)  
 📊 BS in Data Science, IIT Madras  
