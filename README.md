@@ -4,12 +4,12 @@
 🎓 B.Tech Computer Science Engineering (2028)  
 📊 BS in Data Science, IIT Madras  
 
-💻 Aspiring Full Stack Developer  
+💻 Interested in Full Stack Developer , web developer and Backend developer Intership Opportunities
 🚀 Interested in building scalable web applications and AI-integrated systems  
 
 ## 🛠️ Tech Stack
 - Languages: Java, Python, C  
-- Web: HTML, CSS, JavaScript ,Springboot 
+- Web: HTML, CSS, JavaScript ,Springboot, React.js
 - Tools: Git, GitHub, VS Code
   
 ## 📌 Projects
